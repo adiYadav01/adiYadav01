@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @adiYadav01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Aditya Yadav
+## 🎓 B.Tech CSE Student | 💻 Android Developer | 🚀 SIH 2024 Finalist
 
-<!---
-adiYadav01/adiYadav01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+**I'm an enthusiastic Android Developer with experience in building apps using Java and Android Studio. I enjoy solving real-world problems through technology and constantly improving my skills.**
+
+### 🌟 Finalist at Smart India Hackathon 2024, where I worked on a project focused on Gamification of Anti-Doping.
+### 🔧 Passionate about developing user-friendly and efficient mobile applications.
+
+## Skills
+**Languages: Java, Python
+Mobile Development: Android Studio, Firebase
+Interests: Problem Solving, Hackathons, App Design**
